@@ -1,0 +1,16 @@
+
+reset
+
+# png
+set output "output.png"
+
+# Line styles
+set border linewidth 1.5
+set style line 1 linecolor rgb '#0060ad' linetype 1 linewidth 2  # blue
+
+set xlabel 'frequency (Hz)'
+set ylabel 'Vout (volt)'
+
+set grid
+set terminal png
+plot 'myfile.txt' with linespoints

@@ -1,0 +1,268 @@
+<!-- This file needs to be edited by the lab developer to suit
+the requirements of their lab in particular.-->
+
+<!-- Add class="default" to include any element as it is
+specified in default.html. 
+Do not include class="default" to the elements that you want to
+edit -->
+
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+
+<div id="experiment"> <!-- The Experiment Document Container-->
+
+  <!-- The lab Header contains the logo and the name of the lab,
+  usually displayed on the top of the page-->
+
+  <header id="experiment-header" class="default">
+  
+    <div id="experiment-header-logo" class="logo">
+      <!-- Enclose the logo image of your lab or write it in 
+      text-->
+      <img src="../../images/logo.jpg" />
+    </div>
+
+    <div id="experiment-header-heading" class="heading">
+      <!-- Write the name of your lab and link it to the home 
+      page of your lab (h1 tag is preferred while writing your 
+      lab name)-->
+      <a href="../../index.html">Analog CMOS Lab</a>	
+    </div>
+
+    <!-- Add any additional element you want to add to the lab 
+    header, For example : Help (Enclosing them with suitable 
+    div is recommended)-->
+
+  </header>
+
+
+  <!-- The lab article is the main content area where all the 
+  experiment content sits-->
+  <article id="experiment-article">
+  
+    <!-- The lab article has an header, optional navigational 
+    menu, number of sections, an optional sidebar and a closing 
+    footer-->
+    
+      <header id="experiment-article-heading" class="heading">
+        <!-- You can add a welcome message or title of the 
+        experiment here -->
+        Differential to single ended conversion
+        <!-- Add any additional element if required with proper 
+        enclosing-->
+      </header>
+
+      <!-- Navigation menu is useful to organize the view of 
+      multiple sections inside the article-->
+      <nav id="experiment-article-navigation" class="default">
+        <ul id="experiment-article-navigation-menu">
+          <!-- The menu can be dynamically generated to contain 
+          the headings of your sections or instead write the 
+          menu items of your choice individually enclosedu in 
+          <li> tag as shown below-->
+        </ul>
+      </nav>
+
+      <!-- All the sections of your lab or experiment can be 
+      enclosed together with a div element as shown below-->
+      <div id="experiment-article-sections">
+
+        <!-- First section of the article-->
+        <section id="experiment-article-section-1">
+          
+          <div id="experiment-article-section-1-icon" 
+          class="icon">
+	    <!-- Enclose the icon image of your lab -->
+	    <img src="../../images/introduction.jpg" />
+	  </div>	
+          
+          <!-- The heading for the section can be enclosed in a 
+          div tag. -->
+          <div id="experiment-article-section-1-heading" 
+          class="heading">
+            Introduction and Theory
+          </div>
+
+          <!-- Write the section content inside a paragraph 
+          element, You can also include images with <img> tag -->
+          <div id="experiment-article-section-1-content" 
+          class="content">	
+            <p align="justify">
+            In this experiment, we study an interesting combination of differential pairs and current mirrors that proves useful in many applications. To arrive at the circuit, let us first address a problem encountered in some cases. Recall that the op amps have a differential input but a single-ended output. Thus, the internal circuits of such op amps must incorporate a stage that “converts” a differential input to a single-ended output. We may naturally consider the topology shown in Figure as a candidate for this task. 
+            </p></div>
+<img src="images2/Screenshot.png" alt="pendulum">
+            <div id="experiment-article-section-1-content" 
+          class="content"><p align="justify">
+            The circuit of Fig. above  presents a quandary. While the transistors themselves are symmetric and the input signals are small and differential, the circuit is asymmetric. With the diode connected device, M3, creating a low impedance at node A, we expect a relatively small voltage swing—on the order of the input swing—at this node. On the other hand, transistors M2 and M4 provide a high impedance and hence a large voltage swing at the output node. (After all, the
+circuit serves as an amplifier.) The asymmetry resulting from the very different voltage swings at the drains of M1 and M2 disallows grounding node P for small-signal analysis.  
+            </p>
+            <p align="justify">The voltage gain is given by</p></div>
+            <img src="images2/Screenshot-1.png" alt="pendulum" >
+            <div id="experiment-article-section-1-content" 
+          class="content"><p align="justify">This is the exact expression for the gain.</p></div>
+
+          <img src="images2/Screenshot-2.png" alt="pendulum" >
+        
+
+
+      </section>
+
+      <!-- Second section of the article-->
+      
+
+
+      <section id="experiment-article-section-3">
+        
+        <div id="experiment-article-section-3-icon" 
+        class="icon">
+	  <!-- Enclose the icon image of your lab. -->
+	  <img src="../../images/objective.jpg" />
+	</div>
+     
+        <div id="experiment-article-section-3-heading" 
+        class="heading">
+          Objective
+        </div>
+
+        <div id="experiment-article-section-3-content" 
+        class="content">
+          <p align="justify">
+            Objective: This experiment presents the charcterization of Differential to single ended conversion circuit in terms of voltage swing variation from transfer charcterstics(part a) and frequency response charcaterstics from (part b).
+          </p> 
+       
+          
+
+        </div>
+
+      </section>
+
+
+      <section id="experiment-article-section-4">
+
+        <div id="experiment-article-section-4-icon" 
+        class="icon">
+	  <!-- Enclose the icon image of your lab.-->
+	  <img src="../../images/simulation.jpg" />
+	</div>
+
+        <div id="experiment-article-section-4-heading" 
+        class="heading">
+          Experiment
+        </div>
+
+        <div id="experiment-article-section-4-content" 
+        class="content">
+          <p>
+	        Kindly click here to start experiment
+	        
+            <!--<embed src="media/pendulum.swf" />-->
+            <a href="exp1.html" target=_blank>EXPERIMENT</a>
+
+          </p>
+        </div>
+            <img src="../../images/die2.jpg" alt="not found">
+      </section>
+
+      
+
+       
+
+        <section id="experiment-article-section-7">
+	  
+          <div id="experiment-article-section-7-icon" 
+          class="icon">
+	    <!-- Enclose the icon image of your lab. -->
+	    <img src="../../images/procedure.jpg" />
+	  </div>
+	
+          <div id="experiment-article-section-7-heading" 
+          class="heading">
+	    Procedure
+	  </div>
+	
+          <div id="experiment-article-section-7-content" 
+          class="content">
+	    <p>
+	
+	      The procedure for doing the experiments is as follows:<br/>
+Step 1: Draw the schematic of the circuit topology with default values of different parameters. Please select the component and then drag and drop.<br/>
+Step 2: Please go through the introduction and theory, understand the basic motivation behind the topology.<br/>
+Step 3: Fix your specifications and do hand calculations based on the design equations given for the circuit.<br/>
+Step 4: Change the default values on the schematic based on the design calculations carried out in Step. 3.<br/>
+Step  5: Press the simulation button and see the graph in a separate tab.Vary different design parameters and understand the variations in bandwidth, gain, signal swing etc.<br/>
+Step  6: Varify your results to match with the target sepcifications of Step. 3.<br/>
+	    </p>
+	  </div>
+	
+        </section>
+			
+		
+        <section id="experiment-article-section-8">
+   
+          <div id="experiment-article-section-8-icon" 
+          class="icon">
+	    <!-- Enclose the icon image of your lab.-->
+	    <img src="../../images/readings.jpg" />
+	  </div>
+
+          <div id="experiment-article-section-8-heading" 
+          class="heading">
+            Further Readings
+          </div>
+
+          <div id="experiment-article-section-8-content" 
+          class="content">
+            <ul>	
+              <li>
+                Behzad Razavi, Design of Analog CMOS Integrated Circuits, McGraw-Hill Higher Education.
+              </li>
+              <li>
+                P. Gray, P. Hurst, S. Lewis, R. Meyer, "Analysis and Design of Analog Integrated Circuits," 5th Edition,WILEY, 2009.
+              </li> 
+              <li>
+                P. Allen, D. Holberg, "CMOS Analog Circuit Design, Second Edition," Oxford, 2002.  
+              </li> 
+              <li>
+                D. Johns, K. Martin, "Analog Integrated Circuit Design," Wiley, 1997. 
+              </li>
+              <li>
+              	Sedra, Smith, "Microelectronics Circuits," 5th Edition, Oxford
+              </li>
+            </ul>
+          </div>
+
+        </section>
+
+      </div>
+
+
+    <!-- An article can have a sidebar that contain related 
+    links and additional material (however it is kept optional 
+    at this moment) -->
+    <aside id="lab-article-sidebar" class="default">
+      <!-- put the content that you want to appear in the 
+      sidebar -->	
+    </aside>
+
+
+    <!-- Article footer can display related content and 
+    additional links -->						
+    <footer id="lab-article-footer" class="default">
+      <!-- Put the content that you want to appear here -->
+    </footer>
+
+  </article>
+
+
+  <!-- Links to other labs, about us page can be kept the lab 
+  footer-->
+  <footer id="lab-footer" class="default">
+    <!-- Put the content here-->
+  </footer>
+
+</div>		
+
+</body>
+</html>

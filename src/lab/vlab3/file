@@ -1,0 +1,1002 @@
+ 1021  cd Desktop/exp1/
+ 1022  javac exp1_2.java 
+ 1023  cd Desktop/exp1/
+ 1024  javac exp1_2.java
+ 1025  javac exp1_2_1.java
+ 1026  javac exp1_2.java
+ 1027  javac exp1_2_1.java
+ 1028  javac exp1_2_2.java
+ 1029  cd
+ 1030  cd /usr/local/bin/
+ 1031  ls
+ 1032  ./ngspice 
+ 1033  cd /usr/
+ 1034  ls
+ 1035  cd /lib/
+ 1036  ls
+ 1037  cd ..
+ 1038  ls
+ 1039  cd /usr/
+ 1040  ls
+ 1041  cd local/
+ 1042  ls
+ 1043  cd ..
+ 1044  ls
+ 1045  cd /usr/local/bin/
+ 1046  ./ngspice 
+ 1047  cd /usr/
+ 1048  ls
+ 1049  cd local/
+ 1050  ls
+ 1051  cd bin/
+ 1052  ls
+ 1053  cd ..
+ 1054  ls
+ 1055  cd ..
+ 1056  cd
+ 1057  cd /usr/
+ 1058  ls
+ 1059  cd bin/
+ 1060  ls
+ 1061  cd ..
+ 1062  cd lib
+ 1063  ls
+ 1064  cd Desktop/
+ 1065  ls
+ 1066  ls -l exp1
+ 1067  chmod -R 777 exp1
+ 1068  ls -l exp1
+ 1069  cd exp1
+ 1070  javac exp1.java 
+ 1071  cd Desktop/exp1/
+ 1072  javac exp1.java 
+ 1073  ls -l exp1_complementary_simulate.php 
+ 1074  java exp1
+ 1075  javac exp1.java 
+ 1076  php exp1_complementary_simulate.php 
+ 1077  cd Desktop/exp1/
+ 1078  ls
+ 1079  rm inv22.sp 
+ 1080  rm outfile 
+ 1081  ls
+ 1082  vi exp1.java
+ 1083  javac  exp1.java -Xlint
+ 1084  ls
+ 1085  vi inv2.sp 
+ 1086  ls
+ 1087  vi exp1.java
+ 1088  javac  exp1.java -Xlint
+ 1089  ls
+ 1090  vi exp1.java
+ 1091  javac  exp1.java -Xlint
+ 1092  vi exp1.html 
+ 1093  ls
+ 1094  cd ..
+ 1095  ls
+ 1096  ls -l
+ 1097  cd exp1/
+ 1098  ls
+ 1099  ls -l
+ 1100  cd ..
+ 1101  ls
+ 1102  chown root exp1
+ 1103  chown root exp1/
+ 1104  chown root root exp1/
+ 1105  sudo chown root  exp1/
+ 1106  ls
+ 1107  ls -l
+ 1108  sudo chown root  root exp1/
+ 1109  cd exp1/
+ 1110  ls
+ 1111  ls -l
+ 1112  cd ..
+ 1113  sudo chown root  -R exp1/
+ 1114  sl
+ 1115  ls
+ 1116  cd  exp1/
+ 1117  ls
+ 1118  vi exp1_pseudo_simulate.php 
+ 1119  vi exp1_complementary_simulate.php ls -l
+ 1120  ls -l
+ 1121  cd .
+ 1122  ls
+ 1123  cd ..
+ 1124  sl
+ 1125  ls
+ 1126  cd /var/www
+ 1127  cd /var/
+ 1128  sl
+ 1129  sudo apt-get install apache2
+ 1130  cd /var/www/
+ 1131  ls
+ 1132  cp -R ../../home/thapar/Desktop/exp1 .
+ 1133  sudo cp -R ../../home/thapar/Desktop/exp1 .
+ 1134  ls
+ 1135  cd exp1
+ 1136  ls
+ 1137  ls -l
+ 1138  cd ..
+ 1139  chmod -R 777 exp1
+ 1140  sudo chmod -R 777 exp1
+ 1141  ls
+ 1142  cd exp1
+ 1143  ls -l
+ 1144  vi outfile
+ 1145  ls -l outfile 
+ 1146  chown root outfile
+ 1147  sudo chown root outfile
+ 1148  ls -l outfile 
+ 1149  sudo chgrp root outfile
+ 1150  ls -l outfile 
+ 1151  sudo chmod 777 outfile
+ 1152  ls -l outfile 
+ 1153  vi outfile 
+ 1154  ls -l
+ 1155  ls inv22.sp
+ 1156  ls -l
+ 1157  vi inv22.sp
+ 1158  sudo chown root inv22.sp
+ 1159  sudo chgrp root inv22.sp
+ 1160  sudo chmod 777 inv22.sp
+ 1161  ls -l inv22
+ 1162  ls -l inv22.sp 
+ 1163  cd /var/www/
+ 1164  cd exp1/
+ 1165  javac exp1.java 
+ 1166  ls -l
+ 1167  vi outfile 
+ 1168  cd /var/www/
+ 1169  cd exp1/
+ 1170  sudo vi exp1.java
+ 1171  sudo javac exp1.java -Xlint
+ 1172  ls
+ 1173  vi inv22.sp 
+ 1174  rm inv22.sp 
+ 1175  rm outfile 
+ 1176  sudo vi exp1.java
+ 1177  sudo javac exp1.java -Xlint
+ 1178  vi exp1_complementary_simulate.php 
+ 1179  sudo vi exp1.java
+ 1180  sudo javac exp1.java -Xlint
+ 1181  ls
+ 1182  sudo vi exp1.java
+ 1183  php exp1_complementary_simulate.php 
+ 1184  ls
+ 1185  vi inv22.sp 
+ 1186  vi  exp1_complementary_simulate.php 
+ 1187  ls -l
+ 1188  cd ..
+ 1189  ls -l www
+ 1190  sudo apt-get install php5
+ 1191  cd /var/www/
+ 1192  cp -R ../../home/thapar/Desktop/exp1_SH/
+ 1193  cp -R ../../home/thapar/Desktop/exp1_SH/ .
+ 1194  sudo cp -R ../../home/thapar/Desktop/exp1_SH/ .
+ 1195  ls
+ 1196  sudo chmod -R 777 exp1_SH
+ 1197  ls
+ 1198  cd exp1_SH/
+ 1199  ls
+ 1200  ls -l
+ 1201  cd ..
+ 1202  ls
+ 1203  vi test.php
+ 1204  sudo vi test.php
+ 1205  ls
+ 1206  sudo a2enmod php5
+ 1207  ls /etc/apache2/mods-enabled/
+ 1208  sudo /etc/init.d/apache2 restart
+ 1209  cd /var/www/
+ 1210  ls
+ 1211  cd exp1
+ 1212  ls
+ 1213  vi exp1.java
+ 1214  cd ../exp1_SH/
+ 1215  ls
+ 1216  ls -l
+ 1217  sudo cp ../exp1/exp1_2.java .
+ 1218  sudo cp ../exp1/exp1_2_1.java .
+ 1219  sudo cp ../exp1/exp1_2_2.java .
+ 1220  sudo cp ../exp1/exp1_2.html .
+ 1221  sudo cp ../exp1/exp1_2_1.html .
+ 1222  sudo cp ../exp1/exp1_2_2.html .
+ 1223  ls
+ 1224  sudo cp -R ../exp1/images2 .
+ 1225  javac exp1.java 
+ 1226  ls
+ 1227  ls -l
+ 1228  javac exp1.java 
+ 1229  vi outfile 
+ 1230  cd ..
+ 1231  cdmod -R 777 exp1
+ 1232  chmod -R 777 exp1
+ 1233  sudo chmod -R 777 exp1
+ 1234  sudo chown -R root exp1
+ 1235  sudo chgrp -R root exp1
+ 1236  cd exp1
+ 1237  ls -l
+ 1238  vi outfile 
+ 1239  vi inv22.sp 
+ 1240  php5 exp1_complementary_simulate.php 
+ 1241  ls
+ 1242  ls -l
+ 1243  vi exp1.java
+ 1244  cd /var/www/
+ 1245  ls
+ 1246  cd exp1_SH/
+ 1247  ls
+ 1248  ls -l
+ 1249  cd ..
+ 1250  sudo chmod -R exp1_SH/
+ 1251  sudo chmod -R 777 exp1_SH/
+ 1252  cd exp1_SH/
+ 1253  ls
+ 1254  ls -l
+ 1255  javac exp1_2.java
+ 1256  javac exp1_2_1.java
+ 1257  javac exp1_2_2.java
+ 1258  javac exp1_2.java
+ 1259  javac exp1.java
+ 1260  sudo cp ../exp1/exp12.html .
+ 1261  ls
+ 1262  ls -l
+ 1263  vi outfile 
+ 1264  cd ..
+ 1265  sudo cp -R ../../home/thapar/Desktop/exp1_SH_2/ .
+ 1266  ls
+ 1267  sudo chmod -R 777 exp1_SH_2/
+ 1268  sudo chown -R root exp1_SH_2/
+ 1269  sudo chgrp -R root exp1_SH_2/
+ 1270  cd exp1_SH_2/
+ 1271  ls -l
+ 1272  cd /var/www/
+ 1273  ls
+ 1274  mkdir myExp2
+ 1275  sudo mkdir myExp2
+ 1276  cd myExp2/
+ 1277  cp ../exp1_SH_2/exp1.java .
+ 1278  sudo cp ../exp1_SH_2/exp1.java .
+ 1279  sudo cp ../exp1_SH_2/exp1.html .
+ 1280  ls
+ 1281  ls -l
+ 1282  ls
+ 1283  sudo cp ../exp1_SH_2/exp1_complementary_simulate.php .
+ 1284  ls
+ 1285  vi exp1.java 
+ 1286  ls
+ 1287  cd ..
+ 1288  sudo chmod 777 -R myExp2/
+ 1289  ls
+ 1290  cd myExp2/
+ 1291  ls -l
+ 1292  vi exp1.java 
+ 1293  Quanta\ Plus exp1.java 
+ 1294  ls
+ 1295  gnome Quanta\ Plus exp1.java 
+ 1296  Quanta\ Plus exp1.java 
+ 1297  ls
+ 1298  sudo cp -R ../exp1/images2/ .
+ 1299  ls
+ 1300  'ls -l
+ 1301  ls -l
+ 1302  ls
+ 1303  ls -l
+ 1304  cd ..
+ 1305  sudo chmod -R 777 myExp2/
+ 1306  cd myExp2/
+ 1307  ls -l
+ 1308  javac exp1.java 
+ 1309  ls -l
+ 1310  cd ..
+ 1311  sudo chmod -R 777 myExp2/
+ 1312  cd myExp2/
+ 1313  ls -l
+ 1314  javac exp1.java 
+ 1315  ls -l
+ 1316  cd ..
+ 1317  sudo chmod -R 777 myExp2/
+ 1318  cd myExp2/
+ 1319  ls -l
+ 1320  cd ..
+ 1321  sudo chown -R root myExp2/
+ 1322  sudo chgrp -R root myExp2/
+ 1323  cd myExp2/
+ 1324  ls -l
+ 1325  cd ..
+ 1326  sudo chgrp -R root myExp2/
+ 1327  sudo chown -R root myExp2/
+ 1328  sudo chmod 777 -R myExp2/
+ 1329  cd myExp2/
+ 1330  ls -l
+ 1331  ls
+ 1332  ls -l
+ 1333  vi rawfile
+ 1334  ls -l
+ 1335  sudo chmod 777 rawfile 
+ 1336  sudo chown root rawfile 
+ 1337  sudo chgrp root rawfile 
+ 1338  ls -l
+ 1339  php5 ngspice -b  inv22.sp -r rawfile
+ 1340  ngspice -b  inv22.sp -r rawfile
+ 1341  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1342  cat rawfile 
+ 1343  ls -l
+ 1344  cd ../exp1_SH
+ 1345  ls -l
+ 1346  cd ..
+ 1347  cd exp1_SH_2/
+ 1348  ls -l
+ 1349  cd ..
+ 1350  ls -l
+ 1351  cd Desktop/test/
+ 1352  ls
+ 1353  ngspice -b inv22.sp -r rawfile
+ 1354  cat rawfile |tr [:blank:] "\n" outfile 
+ 1355  tr --help
+ 1356  cat rawfile |tr [:blank:] "\n" >outfile 
+ 1357  cat rawfile 
+ 1358  ngspice -b  inv22.sp -r rawfile
+ 1359  ngspice inv22.sp rawfile
+ 1360  ngspice inv22.sp -r rawfile
+ 1361  ngspice -b inv22.sp rawfile
+ 1362  ngspice -b inv22.sp -r rawfile
+ 1363  ngspice -b inv22.sp rawfile
+ 1364  ngspice inv22.sp -r rawfile
+ 1365  ls -l
+ 1366  ngspice -b -r inv22.sp rawfile 
+ 1367  ngspice -b inv22.sp -r rawfile 
+ 1368  ngspice -b  inv22.sp -r rawfile 
+ 1369  ngspice -b  inv22.sp -r rawfile
+ 1370  cd 
+ 1371  cd /var/www/myExp2/
+ 1372  javac exp1.java 
+ 1373  ls -l
+ 1374  cd ..
+ 1375  sudo chmod -R 777 myExp2/
+ 1376  sudo chgrp -R root myExp2/
+ 1377  sudo chown -R root myExp2/
+ 1378  cd myExp2/
+ 1379  ls -l
+ 1380  cd Desktop/test/
+ 1381  ls
+ 1382  ls -l
+ 1383  ngspice -b  inv22.sp -r rawfile
+ 1384  ngspice -b  inv22.sp -r rawfile.txt
+ 1385  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1386  cat rawfile.txt |tr [:blank:] "\n" >  outfile
+ 1387  vimdiff ../exp1_SH_2/outfile outfile 
+ 1388  wc -l | vimdiff ../exp1_SH_2/outfile outfile > know
+ 1389  jobs
+ 1390  pid
+ 1391  ps
+ 1392  kill 3349
+ 1393  ps
+ 1394  vimdiff ../exp1_SH_2/outfile outfile | wc -l > know
+ 1395  ps
+ 1396  cd /var/www/
+ 1397  cd myExp2/
+ 1398  javac exp1.java 
+ 1399  cd ..
+ 1400  sudo chmod -R 777 myExp2/
+ 1401  sudo chown -R root myExp2/
+ 1402  sudo chgrp -R root myExp2/
+ 1403  cd myExp2/
+ 1404  ls -l
+ 1405  ls -a
+ 1406  javac exp1.java 
+ 1407  cd ..
+ 1408  sudo chmod -R 777 myExp2/
+ 1409  sudo chown -R root myExp2/
+ 1410  sudo chgrp -R root myExp2/
+ 1411  cd myExp2/
+ 1412  javac exp1.java 
+ 1413  cd ..
+ 1414  sudo chmod -R 777 myExp2/
+ 1415  sudo chown -R root myExp2/
+ 1416  sudo chgrp -R root myExp2/
+ 1417  cd myExp2/
+ 1418  cd /var/www/myExp2/
+ 1419  javac exp1.java 
+ 1420  cd ..
+ 1421  sudo chmod -R 777 myExp2/
+ 1422  sudo chown -R root myExp2/
+ 1423  sudo chgrp -R root myExp2/
+ 1424  javac exp1.java 
+ 1425  ls -l
+ 1426  cd myExp2/
+ 1427  javac exp1.java 
+ 1428  cd ..
+ 1429  sudo chmod -R 777 myExp2/
+ 1430  sudo chown -R root myExp2/
+ 1431  sudo chgrp -R root myExp2/
+ 1432  cd myExp2/
+ 1433  javac exp1.java 
+ 1434  cd ..
+ 1435  sudo chmod -R 777 myExp2/
+ 1436  sudo chown -R root myExp2/
+ 1437  sudo chgrp -R root myExp2/
+ 1438  cd myExp2/
+ 1439  cd
+ 1440  cd Downloads/
+ 1441  chmod +x netbeans-7.0-ml-linux.sh 
+ 1442  ls -l
+ 1443  ./netbeans-7.0-ml-linux.sh 
+ 1444  cd /var/www/
+ 1445  cd myExp2/
+ 1446  javac DrawCircuit.java 
+ 1447  cd /var/www/myExp2/
+ 1448  cd ..
+ 1449  sudo chmod -R 777 myExp2/
+ 1450  sudo chown -R root myExp2/
+ 1451  sudo chgrp -R root myExp2/
+ 1452  cd myExp2/
+ 1453  vi inv22_new.sp 
+ 1454  cd
+ 1455  cd Desktop/test/
+ 1456  ngspice -b  inv22_new.sp -r rawfile
+ 1457  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1458  ls -l
+ 1459  ngspice -b  inv22_new.sp -r rawfile
+ 1460  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1461  ngspice -b  inv22_new.sp -r rawfile
+ 1462  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1463  ngspice -b  inv22_new.sp -r rawfile
+ 1464  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1465  ngspice -b  inv22_new.sp -r rawfile
+ 1466  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1467  ngspice -b  inv22.sp -r rawfile
+ 1468  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1469  ngspice -b  inv22.sp -r rawfile
+ 1470  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1471  ngspice -b  inv22.sp -r rawfile
+ 1472  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1473  ngspice -b  inv22.sp -r rawfile
+ 1474  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1475  ngspice -b  inv22.sp -r rawfile
+ 1476  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1477  cd 
+ 1478  cd /var/www/
+ 1479  ngspice -b  test.sp -r rawfile_new
+ 1480  cd myExp2/
+ 1481  ngspice -b  test.sp -r rawfile_new
+ 1482  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1483  javac exp1.java 
+ 1484  cd ..
+ 1485  sudo chmod -R 777 myExp2/
+ 1486  sudo chown -R root myExp2/
+ 1487  sudo chgrp -R root myExp2/
+ 1488  cd myExp2/
+ 1489  javac exp1.java 
+ 1490  cd ..
+ 1491  sudo chmod -R 777 myExp2/
+ 1492  sudo chown -R root myExp2/
+ 1493  sudo chgrp -R root myExp2/
+ 1494  cd myExp2/
+ 1495  ngspice -b  test.sp -r rawfile_new
+ 1496  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1497  ngspice -b  test.sp -r rawfile_new
+ 1498  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1499  ngspice -b  test.sp -r rawfile_new
+ 1500  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1501  ngspice -b  test.sp -r rawfile_new
+ 1502  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1503  ngspice -b  test.sp -r rawfile_new
+ 1504  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1505  ngspice -b  test.sp -r rawfile_new
+ 1506  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1507  ngspice -b  test.sp -r rawfile_new
+ 1508  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1509  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1510  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1511  cd
+ 1512  cd Desktop/test/
+ 1513  ngspice -b  inv22_new.sp -r rawfile_new
+ 1514  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1515  ngspice -b  inv22_new.sp -r rawfile_new
+ 1516  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1517  ngspice -b  inv22_new.sp -r rawfile_new
+ 1518  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1519  ngspice -b  inv22_new.sp -r rawfile_new
+ 1520  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1521  ngspice -b  inv22_new.sp -r rawfile_new
+ 1522  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1523  ngspice -b  inv22_new.sp -r rawfile_new
+ 1524  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1525  ngspice -b  inv22_new.sp -r rawfile_new
+ 1526  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1527  ngspice -b  inv22_new.sp -r rawfile_new
+ 1528  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1529  ngspice -b  inv22_new.sp -r rawfile_new
+ 1530  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1531  ngspice -b  inv22_new.sp -r rawfile_new
+ 1532  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1533  ngspice -b  inv22_new.sp -r rawfile_new
+ 1534  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1535  ngspice -b  inv22_new.sp -r rawfile_new
+ 1536  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1537  ngspice -b  inv22_new.sp -r rawfile_new
+ 1538  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1539  ngspice -b  inv22_new.sp -r rawfile_new
+ 1540  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1541  cd /var/www/
+ 1542  cd myExp2/
+ 1543  ngspice -b  inv22_new.sp -r rawfile_new
+ 1544  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1545  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1546  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1547  ngspice -b  inv22.sp -r rawfile
+ 1548  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1549  javac exp1.java 
+ 1550  cd ..
+ 1551  sudo chmod -R 777 myExp2/
+ 1552  sudo chown -R root myExp2/
+ 1553  sudo chgrp -R root myExp2/
+ 1554  cd myExp2/
+ 1555  ngspice -b  inv22.sp -r rawfile
+ 1556  cat rawfile |tr [:blank:] "\n" >  outfile
+ 1557  javac exp1.java 
+ 1558  ngspice -b  inv22_new2.sp -r rawfile_new 
+ 1559  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1560  ngspice -b  inv22_new2.sp -r rawfile_new 
+ 1561  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1562  ngspice -b  inv22_new2.sp -r rawfile_new 
+ 1563  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1564  javac exp1.java 
+ 1565  cd ..
+ 1566  sudo chmod -R 777 myExp2/
+ 1567  sudo chown -R root myExp2/
+ 1568  sudo chgrp -R root myExp2/
+ 1569  cd myExp2/
+ 1570  cd /var/www/
+ 1571  cd myExp2/
+ 1572  ls -l
+ 1573  javac exp1.java 
+ 1574  ls -l
+ 1575  cd ..
+ 1576  sudo chmod 777 -R myExp2/
+ 1577  sudo chown root -R myExp2/
+ 1578  sudo chgrp root -R myExp2/
+ 1579  cd myExp2/
+ 1580  javac exp1.java 
+ 1581  cd ..
+ 1582  sudo chmod 777 -R myExp2/
+ 1583  sudo chown root -R myExp2/
+ 1584  sudo chgrp root -R myExp2/
+ 1585  cd myExp2/
+ 1586  javac exp1.java 
+ 1587  cd ..
+ 1588  sudo chmod 777 -R myExp2/
+ 1589  sudo chown root -R myExp2/
+ 1590  sudo chgrp root -R myExp2/
+ 1591  cd myExp2/
+ 1592  javac exp1.java 
+ 1593  cd
+ 1594  cd Desktop/test/
+ 1595  javac exp1.java 
+ 1596  cd
+ 1597  cd /var/www/
+ 1598  cd myExp2/
+ 1599  javac exp1.java 
+ 1600  cd ..
+ 1601  sudo chmod 777 -R myExp2/
+ 1602  sudo chown root -R myExp2/
+ 1603  sudo chgrp root -R myExp2/
+ 1604  cd myExp2/
+ 1605  cd Desktop/test/
+ 1606  javac exp1.java 
+ 1607  cd
+ 1608  cd /var/www/myExp2/
+ 1609  javac exp1.java 
+ 1610  cd ..
+ 1611  sudo chmod 777 -R myExp2/
+ 1612  sudo chown root -R myExp2/
+ 1613  sudo chgrp root -R myExp2/
+ 1614  cd myExp2/
+ 1615  ifconfig
+ 1616  cd Desktop/test/
+ 1617  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1618  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1619  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1620  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1621  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1622  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1623  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1624  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1625  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1626  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1627  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1628  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1629  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1630  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1631  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1632  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1633  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1634  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1635  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1636  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1637  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1638  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1639  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1640  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1641  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1642  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1643  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1644  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1645  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1646  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1647  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1648  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1649  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1650  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1651  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1652  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1653  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1654  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1655  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1656  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1657  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1658  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1659  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1660  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1661  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1662  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1663  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1664  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1665  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1666  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1667  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1668  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1669  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1670  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1671  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1672  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1673  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1674  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1675  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1676  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1677  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1678  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1679  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1680  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1681  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1682  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1683  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1684  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1685  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1686  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1687  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1688  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1689  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1690  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1691  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1692  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1693  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1694  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1695  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1696  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1697  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1698  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1699  cd Desktop/test/
+ 1700  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1701  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1702  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1703  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1704  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1705  ngspice -b  inv22_new2.sp -r 
+ 1706  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1707  ngspice -b  inv22_new2.sp -r 
+ 1708  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1709  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1710  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1711  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1712  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1713  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1714  ngspice -b  inv22_new2.sp -r 
+ 1715  ngspice -b  inv22_new2.sp -r rawfile_new
+ 1716  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1717  cd Desktop/test/
+ 1718  javac StringToDouble.java 
+ 1719  java StringToDouble 
+ 1720  javac StringToDouble.java 
+ 1721  java StringToDouble 
+ 1722  javac StringToDouble.java 
+ 1723  java StringToDouble 
+ 1724  cd
+ 1725  cd /var/www/
+ 1726  mkdir myExp2_b
+ 1727  sudo mkdir myExp2_b
+ 1728  sudo chmod 777 -R myExp2_b/
+ 1729  cd myExp2_b/
+ 1730  javac exp1.java 
+ 1731  cd ..
+ 1732  sudo chmod 777 -R myExp2_b/
+ 1733  sudo chown root -R myExp2_b/
+ 1734  sudo chgrp root -R myExp2_b/
+ 1735  cd myExp2_b/
+ 1736  ls -l
+ 1737  cd /var/www/
+ 1738  cd myExp2_b/
+ 1739  javac exp1.java 
+ 1740  cd ..
+ 1741  sudo chmod 777 -R myExp2_b/
+ 1742  sudo chown root -R myExp2_b/
+ 1743  sudo chgrp root -R myExp2_b/
+ 1744  cd myExp2_b/
+ 1745  javac exp1.java 
+ 1746  cd ..
+ 1747  sudo chmod 777 -R myExp2_b/
+ 1748  sudo chown root -R myExp2_b/
+ 1749  sudo chgrp root -R myExp2_b/
+ 1750  cd myExp2_b/
+ 1751  javac exp1.java 
+ 1752  ls -l
+ 1753  javac exp1.java 
+ 1754  cd ..
+ 1755  sudo chmod 777 -R myExp2_b/
+ 1756  sudo chown root -R myExp2_b/
+ 1757  sudo chgrp root -R myExp2_b/
+ 1758  cd myExp2_b/
+ 1759  javac exp1.java 
+ 1760  ls -l
+ 1761  javac exp1.java 
+ 1762  ifconfig
+ 1763  cd Desktop/test/
+ 1764  ngspice -b  inv22_new2.sp -r 
+ 1765  ngspice -b  inv33_a.sp -r 
+ 1766  ngspice -b  inv3main.sp -r 
+ 1767  cd /var/www/
+ 1768  sudo mkdir myExp2_2_a
+ 1769  sudo chmod 777 -R myExp2_2_a/
+ 1770  sudo mkdir vlab
+ 1771  sudo chmod 777 -R vlab/
+ 1772  cd vlab\
+ 1773  cd vlab
+ 1774  ls -l
+ 1775  cd ..
+ 1776  sudo chmod -R 777 vlab/
+ 1777  sudo chown root -R vlab/
+ 1778  sudo chgrp root -R vlab/
+ 1779  cd vlab/
+ 1780  ls -l
+ 1781  cd myExp1
+ 1782  ls -l
+ 1783  cd ..
+ 1784  cd myExp2_1_a
+ 1785  ls -l
+ 1786  cd ..
+ 1787  cd myExp2_2_a/
+ 1788  ls -l
+ 1789  cd ..
+ 1790  cd myExp2_1_b/
+ 1791  ls -l
+ 1792  cd ..
+ 1793  cd myExp1
+ 1794  javac exp1_2_2.java 
+ 1795  javac exp1_2_1.java 
+ 1796  javac exp1_2.java 
+ 1797  javac exp1_2_2.java 
+ 1798  cd ..
+ 1799  sudo chmod -R 777 myExp1/
+ 1800  sudo chown root -R myExp1/
+ 1801  sudo chgrp root -R myExp1/
+ 1802  cd myExp1/
+ 1803  cd /var/www/vlab/myExp2_2_a/
+ 1804  javac exp1.java 
+ 1805  cd ..
+ 1806  sudo chmod 777 -R myExp2_2_a/
+ 1807  javac exp1.java 
+ 1808  cd myExp2_2_a/
+ 1809  javac exp1.java 
+ 1810  cd
+ 1811  cd Desktop/test/2_2_a/
+ 1812  ngspice -b  inv3main.sp -r 
+ 1813  ngspice -b  inv.sp -r rawfile
+ 1814  cat rawfile_new |tr [:blank:] "\n" >  outfile_new
+ 1815  cat rawfile|tr [:blank:] "\n" >  outfile_new
+ 1816  ngspice -b  inv.sp -r rawfile
+ 1817  cat rawfile|tr [:blank:] "\n" >  outfile_new
+ 1818  cd
+ 1819  cd Desktop/test/2_3_a/
+ 1820  ngspice -b  inv.sp -r rawfile
+ 1821  cd
+ 1822  cd /var/www/vlab/myExp2_2_a/
+ 1823  javac exp1.java 
+ 1824  cd ..
+ 1825  sudo mkdir myExp2_2_b
+ 1826  sudo chmod -R 777 myExp2_2_b/
+ 1827  cd myExp2_2_b/
+ 1828  javac exp1.java 
+ 1829  cd ..
+ 1830  sudo chmod -R 777 myExp2_2_b/
+ 1831  cd myExp2_2_b/
+ 1832  ls -l
+ 1833  cd ..
+ 1834  sudo chown root -R myExp2_2_b/
+ 1835  sudo chgrp root -R myExp2_2_b/
+ 1836  cd myExp2_2_b/
+ 1837  ls -l
+ 1838  javac exp1.java 
+ 1839  cd ..
+ 1840  sudo mkdir myExp2_3_a
+ 1841  sudo chmod 777 -R myExp2_3_a/
+ 1842  cd myExp2_3_a/
+ 1843  javac exp1.java 
+ 1844  cd ..
+ 1845  sudo chmod 777 -R myExp2_3_a/
+ 1846  sudo chown root -R myExp2_3_a/
+ 1847  sudo chgrp root -R myExp2_3_a/
+ 1848  cd myExp2_3_a/
+ 1849  javac exp1.java 
+ 1850  cd
+ 1851  cd /var/www/vlab/
+ 1852  sudo mkdir myExp2_3_b
+ 1853  sudo chmod 777 -R myExp2_3_b/
+ 1854  sudo chown root -R myExp2_3_b/
+ 1855  sudo chgrp root -R myExp2_3_b/
+ 1856  cd myExp2_3_b
+ 1857  javac exp1.java 
+ 1858  cd ../myExp2_3_a/
+ 1859  javac exp1.java 
+ 1860  cd ../myExp2_3_b/
+ 1861  javac exp1.java 
+ 1862  cd ..
+ 1863  cd /var/www/vlab/
+ 1864  sudo mkdir myExp3_a
+ 1865  sudo chmod 777 -R myExp3_a/
+ 1866  cd myExp3_a/
+ 1867  javac exp1.java 
+ 1868  cd ..
+ 1869  sudo chmod 777 -R myExp3_a/
+ 1870  sudo chown root -R myExp3_a/
+ 1871  sudo chgrp root -R myExp3_a/
+ 1872  cd myExp3_a/
+ 1873  cd ..
+ 1874  sudo mkdir myExp3_b
+ 1875  sudo chmod 777 -R myExp3_b/
+ 1876  cd myExp3_b/
+ 1877  javac exp1.java 
+ 1878  cd ..
+ 1879  sudo chmod 777 -R myExp3_b/
+ 1880  sudo chown root  -R myExp3_b/
+ 1881  sudo chgrp root  -R myExp3_b/
+ 1882  cd myExp3_b/
+ 1883  javac exp1.java 
+ 1884  cd ..
+ 1885  sudo mkdir myExp9_a
+ 1886  sudo chmod 777 -R myExp9_a/
+ 1887  cd Desktop/test/9_a/
+ 1888  ngspice -b  inv3main.sp -r
+ 1889  cd ../5_a/
+ 1890  ngspice -b  inv3main.sp -r
+ 1891  cd /var/www/vlab/myExp9_a/
+ 1892  javac exp1.java 
+ 1893  cd ..
+ 1894  sudo chmod 777 -R myExp9_a/
+ 1895  sudo chown root -R myExp9_a/
+ 1896  sudo chgrp root -R myExp9_a/
+ 1897  cd myExp9_a/
+ 1898  javac exp1.java 
+ 1899  ls -l
+ 1900  cd ..
+ 1901  sudo mkdir myExp9_b
+ 1902  sudo chmod 777 -R myExp9_b/
+ 1903  cd myExp9_b/
+ 1904  javac exp1.java 
+ 1905  cd ..
+ 1906  sudo chmod 777 -R myExp9_b/
+ 1907  sudo chown root -R myExp9_b/
+ 1908  sudo chgrp root -R myExp9_b/
+ 1909  cd myExp9_b/
+ 1910  javac exp1.java 
+ 1911  cd 
+ 1912  cd Desktop/test/9_a/
+ 1913  ngspice -b  inv3main.sp -r
+ 1914  cd Desktop/test/5_a/
+ 1915  ngspice -b  inv3main.sp -r
+ 1916  cd /var/www/
+ 1917  cd vlab/myExp9_b/
+ 1918  javac exp1.java 
+ 1919  cd /var/www/vlab/myExp9_b/
+ 1920  javac exp1.java 
+ 1921  cd ..
+ 1922  sudo mkdir myExp5_a
+ 1923  sudo chmod 777 -R myExp5_a/
+ 1924  cd myExp5_a/
+ 1925  javac exp1.java 
+ 1926  cd ..
+ 1927  sudo chmod 777 -R myExp5_a/
+ 1928  sudo chown root -R myExp5_a/
+ 1929  sudo chgrp root -R myExp5_a/
+ 1930  cd myExp5_a/
+ 1931  javac exp1.java 
+ 1932  cd
+ 1933  cd Desktop/test/5_a/
+ 1934  ngspice -b  inv3main.sp -r
+ 1935  cd /var/www/vlab/
+ 1936  sudo mkdir myExp5_b
+ 1937  sudo chmod 777 -R myExp5_b
+ 1938  cd myExp5_b
+ 1939  javac exp1.java 
+ 1940  cd ..
+ 1941  sudo chown root -R myExp5_b
+ 1942  sudo chgrp root -R myExp5_b
+ 1943  cd myExp5_b/
+ 1944  ls -l
+ 1945  javac exp1.java 
+ 1946  cd ..
+ 1947  sudo chmod 777 -R myExp5_b
+ 1948  cd myExp5_b/
+ 1949  javac exp1.java 
+ 1950  cd
+ 1951  cd Desktop/test/
+ 1952  cd 5_a
+ 1953  ngspice -b  inv3main.sp -r
+ 1954  cd /var/www/vlab/myExp3_a/
+ 1955  javac exp1.java 
+ 1956  cd ../myExp5_a/
+ 1957  javac exp1.java 
+ 1958  cd Desktop/test/9_a/
+ 1959  ngspice -b  inv3main.sp -r
+ 1960  cd Desktop/test/5_a/
+ 1961  ngspice -b  inv3main.sp -r
+ 1962  cd ../9_a/
+ 1963  ngspice -b  inv3main.sp -r
+ 1964  cd /var/www/vlab/myExp5_a/
+ 1965  javac exp1.java 
+ 1966  cd ..
+ 1967  sudo chmod 777 -R myExp5_a/
+ 1968  sudo chown root -R myExp5_a/
+ 1969  sudo chgrp root -R myExp5_a/
+ 1970  cd myExp5_a/
+ 1971  cd ..
+ 1972  cd myExp5_b/
+ 1973  javac exp1.java 
+ 1974  cd ..
+ 1975  sudo chmod 777 -R myExp5_b/
+ 1976  sudo chown root -R myExp5_b/
+ 1977  sudo chgrp root -R myExp5_b/
+ 1978  cd myExp5_b/
+ 1979  javac exp1.java 
+ 1980  cd ../myExp9_b/
+ 1981  javac exp1.java 
+ 1982  cd ..
+ 1983  sudo chgrp root -R myExp5_b/
+ 1984  sudo chgrp root -R myExp9_b/
+ 1985  sudo chown root -R myExp9_b/
+ 1986  sudo chmod 777 -R myExp9_b/
+ 1987  cd myExp9_b/
+ 1988  javac exp1.java 
+ 1989  cd Desktop/test/
+ 1990  cd 6
+ 1991  ngspice -b  inv3main.sp -r
+ 1992  cd ../6_cascode/
+ 1993  ngspice -b  inv3main.sp -r
+ 1994  cd ../Diff_2/
+ 1995  ngspice -b  inv3main.sp -r
+ 1996  cd ../Diff_2_dc/
+ 1997  ngspice -b  inv3main.sp -r
+ 1998  cd /var/www/vlab/
+ 
+ 
+ 1999  sudo mkdir 6_basic
+ 2000  sudo chmod 777 -R 6_basic/
+ 2001  sudo mkdir myExp6_basic
+ 2002  sudo chmod 777 -R myExp6_basic/
+ 2003  cd myExp6_basic/
+ 2004  javac exp1.java 
+ 2005  cd ..
+ 2006  sudo chmod 777 -R myExp6_basic/
+ 2007  sudo chown root -R myExp6_basic/
+ 2008  sudo chgrp root -R myExp6_basic/
+ 2009  cd myExp6_basic/
+ 2010  ls -l
+ 2011  cd ..
+ 2012  ls -l
+ 2013  cd myExp6_basic/
+ 2014  cd ..
+ 2015  sudo chmod 777 -R myExp6_basic/
+ 2016  sudo chown root -R myExp6_basic/
+ 2017  sudo chgrp root -R myExp6_basic/
+ 2018  ls -l .
+ 2019  ls -l ..
+ 2020  history > file
