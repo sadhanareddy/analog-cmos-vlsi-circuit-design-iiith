@@ -1,0 +1,34 @@
+.include '180nm_bulk.txt'
+.include 'varicap_diode_test.txt'
+M1 a c b gnd NMOS l=180n w=30000n
+M2 c a b gnd NMOS l=180n w=30000n
+L1 vdd a 1n
+L2 vdd c 1n
+D1 d a test
+D2 d c test
+Ib b gnd 1m
+Vdd vdd gnd 1.8
+.param ctr=0.1
+vctrl d gnd ctr
+.tran 0.1ns 0.6us 0.595us 
+.save v(c) V(in)
+*.control
+*run
+*plot v(c) 
+*.endc 
+
+.end
+
+
+
+
+
+
+
+
+
+
+
+
+
+

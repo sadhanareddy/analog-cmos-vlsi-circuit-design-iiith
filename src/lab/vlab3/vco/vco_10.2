@@ -1,0 +1,88 @@
+LC_Voltage_Controlled_Oscillator- Virtual_Labs_Exp-10.2
+
+*					     vdd	
+*			-----------------------------------------------
+*	                        (=			   (=
+*			        (=			   (=	
+*			   L1   (=                         (=   L2
+*				(=                         (=  
+*		   	 	(=                         (= 
+*			      	|                          |   
+*                             a |           _______________| c
+* 		 _______________|	   |	           |_________________
+*		|		|__________(_____	   |                 |     
+*		|		|          |     |         |		     |	
+*		|		|____|     |     |    |____|		     |	
+*		|	     M1	     |     |     |    |	     M2		     |	
+*	      	|	    _________||____|     |___||__________            |     
+*	      -----	   |	     ||		     ||		 |	   -----		
+*	       / \	   |	<____|		      |____>	 | 	    / \		
+*	 D1   /	  \	 __|__	|    |		      |	   |   __|__	   /   \   D2		
+*	     /_____\	  ___ 	|                          |	___ 	  /_____\	
+*		|	   _	|            b             |	 _	     |			
+*		|	   	|__________________________|	 	     |		
+*		| d	   		     |                               |
+*   Vctrl_______|____________________________|_______________________________|
+*			   		     (
+*			   		     |
+*			   		     ~	
+*			   		   ( | ) 	
+*                                         (  |  )  Ib=1mA
+*			    		   ( v )	
+*					     ~	
+*			    		     |
+*			   		     |
+*                                          __|__  gnd
+*					    ___
+*					     _				
+                                             
+
+
+
+.include '180nm_bulk.txt'
+.include 'varicap_diode_test.txt'
+M1 a c b gnd NMOS l=180n w=30000n
+M2 c a b gnd NMOS l=180n w=30000n
+L1 vdd a 1n
+L2 vdd c 1n
+D1 d a test
+D2 d c test
+Ib b gnd 1m
+Vdd vdd gnd 1.8
+.param ctr=0.1
+vctrl d gnd ctr
+.tran 0.1ns 0.6us 0.595us 
+
+
+.control
+run
+plot v(c)
+
+alter ctr=0.7 
+run
+plot v(c)
+
+alter ctr=1.4 
+run
+plot v(c)
+.endc 
+
+*this alter-->run loop must be run as many times as the no. of steps in the vctrl specified by the user 
+*and the freauency of the transient signal obtained during each iteration must be calculated     
+*and plotted against the corresponding vctrl finally in a single plot
+
+.end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
