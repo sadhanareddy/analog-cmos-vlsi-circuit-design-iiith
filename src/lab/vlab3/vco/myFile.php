@@ -29,7 +29,7 @@ fwrite($f , "Vdd Vdd 0 1.8\n");
 //fwrite($f , ".param ctr=0.1\n");
 fwrite($f , "vctrl d gnd 0.1\n");
 fwrite($f , ".tran 0.1ns 0.6us 0.595us\n");
-fwrite($f , ".save tran v(c) v(a)\n");
+fwrite($f , ".save v(c) v(a)\n");
 fwrite($f , ".end\n");
 fclose($f);
 echo "Done";
