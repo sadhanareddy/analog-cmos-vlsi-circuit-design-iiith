@@ -1,7 +1,7 @@
   
 <?php
 
-include('../simple_html_dom.php');
+include('../../simple_html_dom.php');
 
 $html = file_get_html('./content.html');
 	
@@ -43,7 +43,7 @@ $lab_url  = "http://deploy.virtual-labs.ac.in/labs/cse30/index.php";
 $exp_url  =  "http://deploy.virtual-labs.ac.in/labs/cse30/vlab3/myExp2_1_b/index.php";
 $base_url = $exp_url;
 
-include('../exp_template.php');
+include('../../exp_template.php');
 
 ?>
 
