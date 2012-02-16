@@ -5,7 +5,7 @@ include('../simple_html_dom.php');
 
 $html = file_get_html('./content.html');
 	
-if(!isset($_GET["section"])) $section = "Introduction"; 
+if(!isset($_GET["section"])) $section = "Introduction and Theory"; 
 else $section = $_GET["section"];
 // Find all images
 
