@@ -1,0 +1,11 @@
+#!/usr/local/bin/gnuplot -persist
+# set terminal postscript landscape noenhanced monochrome \
+#              dashed defaultplex "Helvetica" 14
+# set output 'output.ps'
+set output "output.png";
+set xlabel "Vin";
+set ylabel "Vout";
+set grid;
+set terminal png; 
+plot 'myfile.txt' with lines;
+
